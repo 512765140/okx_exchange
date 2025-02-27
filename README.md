@@ -6,29 +6,20 @@
 
 
 前端：Web+H5
-
 https://www.okxnet.com/
-
 账号：13555555555
-
 密码：123456
 
 
 总后台：
-
 https://admin.okxnet.com/
-
 账号：admin
-
 密码：admin
 
 
 代理后台
-
 https://admin.okxnet.com/agent
-
 13555555555
-
 123456
 
 
@@ -68,29 +59,20 @@ Private team development: full set of exchange code for sale/rental/custom devel
 
 
 Front-end: Web+H5
-
 https://www.okxnet.com/
-
 Account: 13555555555
-
 Password: 123456
 
 
 Backend:
-
 https://admin.okxnet.com/
-
 Account: admin
-
 Password: admin
 
 
 Management backend
-
 https://admin.okxnet.com/agent
-
 13555555555
-
 123456
 
 
