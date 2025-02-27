@@ -39,7 +39,9 @@ https://admin.okxnet.com/agent
 
 
 
-如有兴趣请咨询 QQ.1590916590 ， TG：guofucheng668
+如有兴趣请咨询
+Email：aalideo@163.com 
+TG：guofucheng668
 
 
 --------------------------------------------------------------------------------------
@@ -90,7 +92,9 @@ Server (thinkphp5.1, workerman)
 Some other online services (statistical backend, automated operation backend)
 
 
-If you are interested, please consult QQ.1590916590, TG: guofucheng668
+If you are interested, please consult
+Email：aalideo@163.com
+TG: guofucheng668
 
 --------------------------------------------------------------------------------------
 
